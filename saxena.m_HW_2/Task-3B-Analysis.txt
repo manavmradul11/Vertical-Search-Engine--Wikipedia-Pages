@@ -1,0 +1,34 @@
+WG1 ,D=0.85
+
+SORTED BY PAGE RANK
+ 
+Sustainable_energy:0.0010252451197089293
+Renewable_energy:0.0010088873479753798
+Renewable_energy_commercialization:0.0010088873479753798
+Renewable_energy_in_Africa:0.0010088873479753798
+Renewable_energy_in_Algeria:0.0010088873479753798
+
+WG1 ,D=0.85
+
+SORTED BY NUMBER OF INLINKS
+
+Renewable_energy:5
+Renewable_energy_commercialization:5
+Renewable_energy_in_Africa:5
+Renewable_energy_in_Algeria:5
+Renewable_energy_in_Ethiopia:5
+
+
+kENDALL Rank = (48-2)/50   = 0.92
+
+_________________________________________________________________________
+
+Analysis : D=0.85 vs inline count
+
+The kendall value is fairly very large which tells there is significant relation between number of inlinks and page rank.
+
+There is a greater probability for pages with greater number of inlinks to have the d*PR(q)/L(q) factor added to their page rank.Unpopular pages like Renewable_energy_in_Algeria have greater page rank because they might have inlinks which have a higher page rank but less of outlinks.When number of outlinks is  fairly greater inlinks of page, the inlink factor may become insignificant and may add very less to the original page rank.pages with zero unlinks loose significant inline credits to promote their page rank.
+
+
+
+

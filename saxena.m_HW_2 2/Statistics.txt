@@ -1,0 +1,3 @@
+For graph WG1:
+
+No of pages with no inlinks is 
